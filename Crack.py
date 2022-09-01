@@ -1,5 +1,5 @@
 #############################################################################
-# DEVELOPER : XVR
+# DEVELOPER : AldubXv
 # TEANCONTA : KONTOL
 ######################################################################################
 
@@ -90,8 +90,7 @@ def banner():
 ───────────────────────────────────────────────────────
  [\x1b[1;96m+%s] Nama       : XVR
  [\x1b[1;96m+%s] WhatsApp   : 6283142213915
- [\x1b[1;96m+%s] Facebook   : XVR
- [\x1b[1;96m+%s] Github      : https://github.com/kalze123/kalze-new
+ [\x1b[1;96m+%s] Github     : https://github.com/AlDubxv/Crack
 ───────────────────────────────────────────────────────\n'''%(N,N,N,N))
 def kontol():
     os.system("clear")
@@ -109,7 +108,6 @@ def kontol():
 {B} |
 {P}[•] AUTHOR: XVR
 {P}[•] WHATSAPP: 6283142213915
-{P}[•] FACEBOOK: XVR""")
 def licensi():#line:42
   try :#line:43
     os .system ('clear')

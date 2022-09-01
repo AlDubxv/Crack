@@ -112,7 +112,7 @@ def licensi():#line:42
   try :#line:43
     os .system ('clear')
     kontol()
-    print (f"""
+    print(f"""
 {U}[{P}1{U}]{P} Beli Apikey
 {U}[{P}2{U}]{P} Masukan ApiKey
 {U}[{P}3{U}]{P} Keluar {U}[{H}Exit{U}]{H}
